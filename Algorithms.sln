@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathcs", "Mathcs\Mathcs.csproj", "{63BBD2E0-3249-47E4-AFC2-5056A8307A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{14D4971D-C154-4ABB-A28B-F0F2C92669E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{002CB905-D232-42AB-85D5-83F0FAFCD7B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BBD2E0-3249-47E4-AFC2-5056A8307A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BBD2E0-3249-47E4-AFC2-5056A8307A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BBD2E0-3249-47E4-AFC2-5056A8307A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BBD2E0-3249-47E4-AFC2-5056A8307A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D4971D-C154-4ABB-A28B-F0F2C92669E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D4971D-C154-4ABB-A28B-F0F2C92669E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D4971D-C154-4ABB-A28B-F0F2C92669E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D4971D-C154-4ABB-A28B-F0F2C92669E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002CB905-D232-42AB-85D5-83F0FAFCD7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002CB905-D232-42AB-85D5-83F0FAFCD7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002CB905-D232-42AB-85D5-83F0FAFCD7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002CB905-D232-42AB-85D5-83F0FAFCD7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
